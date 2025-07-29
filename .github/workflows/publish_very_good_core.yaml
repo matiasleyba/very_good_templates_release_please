@@ -3,7 +3,7 @@ name: publish_very_good_core
 on:
   push:
     tags:
-      - "very_good_core-v*.*.*"
+      - "veryy_good_core-v*.*.*"
   workflow_dispatch:
 
 jobs:
