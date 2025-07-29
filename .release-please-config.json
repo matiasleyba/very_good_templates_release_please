@@ -8,7 +8,7 @@
     { "type": "docs", "section": "Docs" }
   ],
   "pull-request-header": ":rotating_light: There are changes ready for release :rocket:\n\nℹ Merge this PR once the team confirms the release is ready.\n",
-  "pull-request-title-pattern": "chore(${component}): ${version}",
+  "pull-request-title-pattern": "chore${component}: ${version}",
   "packages": {
     "very_good_core": {
       "release-type": "simple",
