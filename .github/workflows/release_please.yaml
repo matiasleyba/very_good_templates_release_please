@@ -1,4 +1,4 @@
-name: release_please_dev
+name: release_please
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}

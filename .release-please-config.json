@@ -16,10 +16,7 @@
       "version-file": "version.txt",
       "component": "very_good_core",
       "extra-files": [
-        {
-          "type": "yaml",
-          "path": "brick.yaml"
-        }
+        "brick.yaml"
       ]
     }
   }
