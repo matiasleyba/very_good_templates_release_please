@@ -11,9 +11,12 @@
   "pull-request-title-pattern": "chore(${component}): ${version}",
   "packages": {
     "very_good_core": {
-      "release-type": "dart",
+      "release-type": "simple",
       "changelog-path": "CHANGELOG.md",
-      "version-file": "brick.yaml"
+      "version-file": "version.txt",
+      "extra-files": [
+        "brick.yaml"
+      ]
     }
   }
 }
