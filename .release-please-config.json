@@ -9,12 +9,14 @@
   ],
   "pull-request-header": ":rotating_light: There are changes ready for release :rocket:\n\nℹ Merge this PR once the team confirms the release is ready.\n",
   "pull-request-title-pattern": "chore(${component}): ${version}",
+  "separate-pull-requests": true,
   "packages": {
     "very_good_core": {
       "release-type": "simple",
       "changelog-path": "CHANGELOG.md",
       "version-file": "version.txt",
       "component": "very_good_core",
+      "component-no-space": true,
       "extra-files": [
         "brick.yaml"
       ]
