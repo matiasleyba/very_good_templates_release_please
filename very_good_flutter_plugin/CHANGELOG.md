@@ -17,6 +17,18 @@ mason make very_good_flutter_plugin
 mason make very_good_flutter_plugin -o ./output_folder
 ```
 
+## [1.1.0](https://github.com/matiasleyba/very_good_templates_release_please/compare/very_good_flutter_plugin-v1.0.0...very_good_flutter_plugin-v1.1.0) (2025-08-04)
+
+
+### Features
+
+* setup missing templates ([3e4b5b1](https://github.com/matiasleyba/very_good_templates_release_please/commit/3e4b5b17dd84680325fcd4ecdd3bc5de72a55cd2))
+
+
+### Docs
+
+* format changelogs ([f260ce4](https://github.com/matiasleyba/very_good_templates_release_please/commit/f260ce4395b17f452a72fe0ae09dc70390bc3a14))
+
 ## 0.11.1
 
 - fix: linting issues [#280](https://github.com/VeryGoodOpenSource/very_good_templates/pull/280)
