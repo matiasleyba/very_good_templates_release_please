@@ -17,6 +17,18 @@ mason make very_good_core
 mason make very_good_core -o ./output_folder
 ```
 
+## [1.1.0](https://github.com/matiasleyba/very_good_templates_release_please/compare/very_good_core-v1.0.0...very_good_core-v1.1.0) (2025-08-04)
+
+
+### Features
+
+* change release type to simple ([3e45387](https://github.com/matiasleyba/very_good_templates_release_please/commit/3e4538765270c4fc45e69523ea26d83650d81ba0))
+
+
+### Docs
+
+* format changelogs ([f260ce4](https://github.com/matiasleyba/very_good_templates_release_please/commit/f260ce4395b17f452a72fe0ae09dc70390bc3a14))
+
 ## 0.11.1 
 
 - docs: update test command in very good core README ([#287](https://github.com/VeryGoodOpenSource/very_good_templates/pull/287))
