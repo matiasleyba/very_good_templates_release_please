@@ -1,3 +1,4 @@
+
 ## 1.0.0
 
 refactor(very_good_flutter_package)!: remove root-level project_name folder from brick structure.
