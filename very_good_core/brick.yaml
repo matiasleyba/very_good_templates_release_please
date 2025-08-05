@@ -4,7 +4,7 @@ repository: >-
   https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_core
 version: 1.0.0
 environment:
-  mason: ^1.0.0
+  mason: ^0.1.0
 vars:
   project_name:
     type: string
