@@ -1,3 +1,14 @@
+## [1.1.0](https://github.com/matiasleyba/very_good_templates_release_please/compare/very_good_flutter_package-v1.0.0...very_good_flutter_package-v1.1.0) (2025-08-05)
+
+
+### Features
+
+* setup missing templates ([3e4b5b1](https://github.com/matiasleyba/very_good_templates_release_please/commit/3e4b5b17dd84680325fcd4ecdd3bc5de72a55cd2))
+
+
+### Docs
+
+* format changelogs ([f260ce4](https://github.com/matiasleyba/very_good_templates_release_please/commit/f260ce4395b17f452a72fe0ae09dc70390bc3a14))
 
 ## 1.0.0
 
