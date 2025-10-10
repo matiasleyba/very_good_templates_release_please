@@ -11,7 +11,7 @@ A Very Good Flutter app created by Very Good Ventures 🦄.
 
 ## What's Included ✨
 
-Hey!
+Hey! Another change
 
 Out of the box, Very Good Core includes:
 
