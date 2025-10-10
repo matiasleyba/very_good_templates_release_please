@@ -11,6 +11,8 @@ A Very Good Flutter app created by Very Good Ventures 🦄.
 
 ## What's Included ✨
 
+Hey!
+
 Out of the box, Very Good Core includes:
 
 - ✅ [Cross Platform Support][flutter_cross_platform_link] - Built-in support for iOS, Android, Web, and Windows (MacOS/Linux coming soon!)
