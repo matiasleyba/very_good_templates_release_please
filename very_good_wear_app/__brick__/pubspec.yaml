@@ -7,20 +7,20 @@ environment:
   sdk: ^3.8.0
 
 dependencies:
-  bloc: ^9.0.0
+  bloc: ^9.2.1
   flutter:
     sdk: flutter
   flutter_bloc: ^9.1.1
   flutter_localizations:
     sdk: flutter
   intl: ^0.20.2
-  wearable_rotary: ^2.0.2
+  wearable_rotary: ^2.0.4
 
 dev_dependencies:
   bloc_test: ^10.0.0
   flutter_test:
     sdk: flutter
-  mocktail: ^1.0.4
+  mocktail: ^1.0.5
   very_good_analysis: ^9.0.0-rc.1
 
 flutter:
